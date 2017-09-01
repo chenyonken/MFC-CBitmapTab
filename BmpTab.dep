@@ -1,0 +1,22 @@
+# Microsoft Developer Studio Generated Dependency File, included by BmpTab.mak
+
+.\BmpTab.cpp : \
+	".\BmpTab.h"\
+	".\BmpTabDlg.h"\
+	".\StdAfx.h"\
+	
+
+.\BmpTab.rc : \
+	".\res\BmpTab.ico"\
+	".\res\BmpTab.rc2"\
+	
+
+.\BmpTabDlg.cpp : \
+	".\BmpTab.h"\
+	".\BmpTabDlg.h"\
+	".\StdAfx.h"\
+	
+
+.\StdAfx.cpp : \
+	".\StdAfx.h"\
+	
